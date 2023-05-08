@@ -1,4 +1,6 @@
 accelerator:
-  displayName: Sample Accelerator
-  description: Sample Accelerator
+  displayName: Data Catalog Best Practices
+  description: Best Practices for Search and Discovery of Data Assets
   iconUrl: https://upload.wikimedia.org/wikipedia/commons/1/1b/ML_Ops_Venn_Diagram.svg
+  tags:
+  - "practise"
